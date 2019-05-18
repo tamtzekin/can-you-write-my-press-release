@@ -16,7 +16,8 @@ function GenerateNewText() {
       "For this concert only, [band name] will perform a site-specific performance commissioned exclusively for the [venue].",
       "With seven albums to their name, they will perform a career-spanning set performing fan favourites and new music alike.",
       "Breaking the boundaries between electronic and acoustic music, their electrifying performance has seen them headline Coachella, Splendour in the Grass and Laneway Festival.", 
-      "Not content with just their music, the band's individual members have written, produced and starred in their own [electro-cabaret fusion shows], direct from sold-out seasons at [Edinburgh, Adelaide Fringe and Las Vegas - the home of showbiz]."
+      "Not content with just their music, the band's individual members have written, produced and starred in their own [electro-cabaret fusion shows], direct from sold-out seasons at [Edinburgh, Adelaide Fringe and Las Vegas - the home of showbiz].",
+      "[Band name]'s lyrics are unabashedly political, tackling topics such as race, smashing capitalism and the patriarchy and the intersection between climate, race and tech."
    ];
 }
 
