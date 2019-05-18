@@ -8,20 +8,15 @@ function GenerateNewText() {
   // Add property to the object
   this.sentences =
     [
-      "for their only Australian performance",
-      "The Grammy Award-winning, Nobel Peace Prize-nominated band",
-      "that features the band's original line-up for the first time since its inception",
-      "They will perform their Pitchfork-praised sophomere album for the first time, which was praised by as 'genre-defying'",
-      "Their sound is an intersection betwen early-career Bjork and , having received accolades from Bjork and Leonard Cohen alike.",
-      "bringing their signature blend of bass-heavy electronics and infectious rhythmic beats",
-      "performing a site-specific performance commissioned exclusively for the Sydney Opera House",
-      "with seven albums to their name",
-      "to perform a career-spanning set performing fan favourites and new music alike",
-      "breaking the boundaries between electronic and acoustic music",
-      "with an electrifying performance that has seen them headline Coachella, Splendour in the Grass and Laneway Festival", 
-      "in a world exclusive performance",
-      "direct from a season on Broadway",
-      "direct from sold-out seasons at Edinburgh and Adelaide Fringe"
+      "The [Grammy Award]-winning, [Nobel Peace Prize]-nominated band return to the country for their first [Australian] performance in [twenty] years.",
+      "For this concert only, the band's original line-up will reunite for the first time since its inception.",
+      "They will perform their [Pitchfork]-approved sophomere album for the first time, which was praised by as ['genre-defying'] and ['eclectic'].",
+      "The band's sound has been defined by critics as an intersection betwen [early-career Bjork] and [late-career Morrissey], having received accolades from [Radiohead's Thom Yorke] and [Talking Head's David Byrne] alike.",
+      "Their signature blend of [bass-heavy electronics] and [infectious rhythmic beats] will melt the [Concert Hall] once more.",
+      "For this concert only, [band name] will perform a site-specific performance commissioned exclusively for the [venue].",
+      "With seven albums to their name, they will perform a career-spanning set performing fan favourites and new music alike.",
+      "Breaking the boundaries between electronic and acoustic music, their electrifying performance has seen them headline Coachella, Splendour in the Grass and Laneway Festival.", 
+      "Not content with just their music, the band's individual members have written, produced and starred in their own [electro-cabaret fusion shows], direct from sold-out seasons at [Edinburgh, Adelaide Fringe and Las Vegas - the home of showbiz]."
    ];
 }
 
