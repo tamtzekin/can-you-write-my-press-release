@@ -15,4 +15,5 @@ Clone the repository to your computer, `cd` into the folder and run:
 `node app.js`
 
 The generator will run on:
+
 `localhost:8888`
