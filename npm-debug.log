@@ -12,7 +12,7 @@
 4 verbose stack     at /usr/share/npm/node_modules/read-package-json/read-json.js:300:12
 4 verbose stack     at /usr/share/npm/node_modules/graceful-fs/graceful-fs.js:76:16
 4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
-5 verbose cwd /mnt/c/Users/tamtz/Documents/Code/can-you-write-my-press-release
+5 verbose cwd /mnt/c/Users/tamtz/Documents/Code/write-my-press-release
 6 error Linux 4.4.0-17134-Microsoft
 7 error argv "/usr/bin/node" "/usr/bin/npm" "start"
 8 error node v8.10.0
