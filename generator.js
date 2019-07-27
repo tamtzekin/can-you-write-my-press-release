@@ -58,5 +58,8 @@ GenerateNewText.prototype.getAllParagraphs = function(numberOfParagraphs) {
   });
   return paragraphHTML;
 }
+// At the bottom of app.js or server.js
+const port = process.env.PORT || 3000;
+app.listen(port);
 
 module.exports = loremIpsum;
