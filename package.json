@@ -6,9 +6,6 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
-    "build": "npm build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
