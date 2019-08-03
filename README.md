@@ -7,7 +7,7 @@ Uses Node.js and ExpressJS.
 
 ## How to run
 ### Online
-View the [demo](https://tamtzekin.io/write-my-press-release)
+View the [demo](https://write-my-press-release.herokuapp.com/)
 
 ### Try it out for yourself
 Clone the repository to your computer, `cd` into the folder and run:
