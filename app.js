@@ -18,6 +18,6 @@ app.use(express.static('public'));
 app.use(routes);
 
 // Begin accepting connections to the specified port
-app.listen(port, function() {
+app.listen(port, () => {
   console.log(`Server is listening at http://${hostname}:${port}/`);
 })
